@@ -1,6 +1,7 @@
 # Pandas
 
-Mastering & documenting **Pandas**, a powerful Python library for data analysis and manipulation. 
+Mastering & documenting **Pandas**, a powerful Python library for data analysis and manipulation.
+
 This project is designed not only as a personal reference but also as a resource for others looking to build a strong foundation in data handling with Pandas.
 
 ## 📚 Topics Covered
