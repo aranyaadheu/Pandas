@@ -4,7 +4,7 @@ Mastering & documenting **Pandas**, a powerful Python library for data analysis 
 
 This project is designed not only as a personal reference but also as a resource for others looking to build a strong foundation in data handling with Pandas.
 
-## 📚 Topics Covered
+## Topics Covered
 
 The repository walks through real-world examples and covers:
 
@@ -18,7 +18,7 @@ The repository walks through real-world examples and covers:
 - Working with time series data
 - Visualization with pandas
 
-## 📝 Structure of This Repo
+## Structure of This Repo
 
 Each topic has its own folder or notebook.
 Each notebook contains:
